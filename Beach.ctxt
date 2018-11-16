@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment2.params=
+comment2.target=void\ addFood()
+comment2.text=\r\n\ addFood\ stores\ the\ food\ objects\ to\ place\ in\ the\ world\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ update()
+comment5.params=
+comment5.target=void\ resetFood()
+numComments=6
